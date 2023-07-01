@@ -21,29 +21,29 @@ const footer = () => {
         <div className="container mx-auto flex flex-col space-y-24 ">
           <div className="grid lg:grid-cols-3 gap-20">
             <div className="col-span-1 flex flex-row space-x-3">
-              <FaMapMarkedAlt className="w-12 h-12 text-amber-600  p-1" />
+              <FaMapMarkedAlt className="w-12 h-12 text-blue-600  p-1" />
               <div className="space-y-2">
                 <p className="text-gray-500">ADDRESS</p>
                 <p className="text-gray-600 font-medium">
-                  2507 PARKER BOULEVARD OAKLAND, CA 76107
+                  Gigiri,Nairobi Diplomatic Police Department
                 </p>
               </div>
             </div>
             <div className="col-span-1 flex flex-row space-x-3">
-              <FaPhoneAlt className="w-12 h-12 text-amber-600  p-1" />
+              <FaPhoneAlt className="w-12 h-12 text-blue-600  p-1" />
               <div className="space-y-2">
                 <p className="text-gray-500">PHONES</p>
                 <p className="text-gray-600 font-medium">
-                  BOOK A RIDE: (0481) 123 987 2411 OFFICE: (0481) 123 987 2412
+                  BOOK AN APPOINTMENT: (+254) 123 456 7893 OFFICE: (254) 123 456 7892
                 </p>
               </div>
             </div>
             <div className="col-span-1 flex flex-row space-x-3">
-              <FaRegClock className="w-12 h-12 text-amber-600  p-1" />
+              <FaRegClock className="w-12 h-12 text-blue-600  p-1" />
               <div className="space-y-2">
                 <p className="text-gray-500">WORKING HOURS</p>
                 <p className="text-gray-600 font-medium">
-                  MON-SAT: 07:00 - 17:00 SUN: CLOSED
+                  MON-SUN: 24/7
                 </p>
               </div>
             </div>
@@ -53,15 +53,15 @@ const footer = () => {
               <Image src={Logo} alt="Logo" />
 
               <p className="text-gray-500">
-                DriverUP has provided car services in Oakland area since 2005.
-                What started as a small company has grown into a premier
-                limousine and private transportation company.
+                The Kenya Diplomatic police is a government police unit
+                dedicated to the service and protection of international diplomats
+                based in kenya.Our main offices are located in Gigiri and open 24 hours; each day of the week.
               </p>
             </div>
             <div className="col-span-1 space-y-8">
               <div className="flex flex-col space-y-2">
                 <p className="text-gray-600 font-medium">OUR SERVICES</p>
-                <p className="border-solid border border-amber-500  w-1/4 "></p>
+                <p className="border-solid border border-blue-500  w-1/4 "></p>
               </div>
               <div className="flex flex-col space-y-1">
                 <div className="flex flex-row items-center space-x-2">
@@ -88,27 +88,27 @@ const footer = () => {
             </div>
             <div className="col-span-1 space-y-8">
               <div className="flex flex-col space-y-2">
-                <p className="text-gray-600 font-medium">DriverUP</p>
-                <p className="border-solid border border-amber-500  w-1/4 "></p>
+                <p className="text-gray-600 font-medium">Diplomatic Police Unit</p>
+                <p className="border-solid border border-blue-500  w-1/4 "></p>
               </div>
               <div className="flex flex-col space-y-4">
                 <div className="flex flex-row items-center space-x-4">
                   <FaMapMarkerAlt className="w-6 h-6 text-gray-500  font-light" />
                   <p className="text-gray-500">
-                    2507 Parker Boulevard, Oakland
+                    Gigiri Diplomatic Police Department
                   </p>
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaPhone className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500">(0481) 123 987 2411</p>
+                  <p className="text-gray-500">(+245) 123 456 789</p>
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaPhoneSquareAlt className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500">(0481) 123 987 2412</p>
+                  <p className="text-gray-500">(+254) 123 456 789</p>
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaVoicemail className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500"> contact@autoride.com</p>
+                  <p className="text-gray-500">diplomaticpolicekenya@gvy.go.ke</p>
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaCalendarWeek className="w-6 h-6 text-gray-500 " />
@@ -118,20 +118,20 @@ const footer = () => {
             </div>
             <div className="col-span-1 space-y-8">
               <div className="flex flex-col space-y-2">
-                <p className="text-gray-600 font-medium">SUBSCRIBE</p>
-                <p className="border-solid border border-amber-500  w-1/4 "></p>
+                <p className="text-gray-600 font-medium">For Updates</p>
+                <p className="border-solid border border-blue-500  w-1/4 "></p>
               </div>
               <div className="flex flex-col space-y-4">
                 <input
                   type="email"
                   id="email"
                   className="bg-gray-50 border border-gray-300 text-gray-900   focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 "
-                  placeholder="name@flowbite.com"
+                  placeholder="diplomaticpolicekenya@gvy.go.ke"
                   required
                 />
                 <button
                   type="submit"
-                  className="text-white bg-amber-700 hover:bg-amber-800 focus:ring-4 focus:ring-blue-300 font-medium   w-full sm:w-auto px-5 py-2.5 text-center "
+                  className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium   w-full sm:w-auto px-5 py-2.5 text-center "
                 >
                   Submit
                 </button>
@@ -142,7 +142,7 @@ const footer = () => {
       </div>
 
       <div className="py-8 container mx-auto flex flex-row justify-between">
-        <p>Copyright 2021 DriverUp Theme by Wael Hassine</p>
+        <p>Copyright 2023 Diplomatic Police Kenya Theme by Desmond Kinoti</p>
         <div className="flex flex-row space-x-3">
           <FaFacebook className="w-5 h-5 text-gray-500" />
           <FaInstagram className="w-5 h-5 text-gray-500" />
