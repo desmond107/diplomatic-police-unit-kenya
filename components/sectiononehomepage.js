@@ -17,7 +17,7 @@ const Contents = () => {
         </div>
       </div>
       <div className="px-12 flex flex-col justify-center items-center text-center space-y-6">
-        <FaHashtag className="w-12 h-12 text-amber-600  p-1" />
+        <FaHashtag className="w-12 h-12 text-blue-600  p-1" />
         <p className="text-3xl font-light text-gray-600">
           I invite you to try our service and I personally guarantee you will
           <br />
@@ -38,7 +38,7 @@ const Contents = () => {
           </p>
           <button
             type="button"
-            className="text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
+            className="text-white  bg-blue-600 hover:bg-blue-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
           >
             CONTACT US
           </button>

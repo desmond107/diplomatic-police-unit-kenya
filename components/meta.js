@@ -14,8 +14,8 @@ const Meta = ({ title, keywords, description }) => {
 };
 
 Meta.defaultProps = {
-  title: "Driver Company",
-  keywords: "Driver taxi, Germany",
+  title: "Diplomatic police Kenya",
+  keywords: "Diplomatic police, DPU",
   description: "Get the latest news in web dev",
 };
 

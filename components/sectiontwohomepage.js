@@ -3,7 +3,7 @@ const ContentTwo = () => {
     <div>
       <div className="flex flex-col space-y-12 items-center justify-center bg-gray-50 w-full py-12">
         <div className="text-center space-y-3 ">
-          <p className="text-xl font-medium text-amber-600">WHAT WE OFFER</p>
+          <p className="text-xl font-medium text-blue-600">WHAT WE OFFER</p>
           <p className="text-4xl font-light text-gray-600">
             See What We Can Do for You
           </p>
@@ -72,7 +72,7 @@ const ContentTwo = () => {
         </div>
         <button
           type="button"
-          className=" text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
+          className=" text-white  bg-blue-600 hover:bg-blue-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
         >
           CONTACT US
         </button>

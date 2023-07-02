@@ -17,15 +17,15 @@ const navbar = () => {
           <div className="lg:flex lg:flex-row flex flex-col justify-center items-center space-x-12 lg:space-y-0 space-y-2">
             <div className="flex flex-row space-x-2">
               <FaMapMarkerAlt className="w-5 h-5 text-gray-500" />
-              <p>2507 Parker Boulevard, Oakland, CA 76107</p>
+              <p>Gigiri Diplomatic Police Department</p>
             </div>
             <div className="flex flex-row space-x-2">
               <FaMobileAlt className="w-5 h-5 text-gray-500" />
-              <p> (0481) 123 987 2411</p>
+              <p> (+254) 123 456 789</p>
             </div>
             <div className="flex flex-row space-x-2">
               <FaRegClock className="w-5 h-5 text-gray-500" />
-              <p>Mon-Sat: 07:00 - 17:00</p>
+              <p>Mon-Sun: 24/7</p>
             </div>
           </div>
           <div className="flex flex-row space-x-4  justify-center items-center ">
@@ -45,7 +45,7 @@ const navbar = () => {
           <div className="flex md:order-2">
             <button
               type="button"
-              className="text-gray-700 hover:text-white hover:bg-yellow-600 border-2 border-yellow-500   rounded-3xl  px-5 py-2.5 text-center mr-3 md:mr-0 "
+              className="text-gray-700 hover:text-white hover:bg-blue-600 border-2 border-blue-500   rounded-3xl  px-5 py-2.5 text-center mr-3 md:mr-0 "
             >
               GET A QUOTE
             </button>
@@ -87,12 +87,13 @@ const navbar = () => {
             className="hidden justify-between items-center w-full md:flex md:w-auto md:order-1"
             id="mobile-menu-4"
           >
+          
             <ul className="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0  ">
               <li>
                 <Link href="/">
                   <a
                     href="#"
-                    className="block py-2 pr-4 pl-3 text-yellow-600  md:hover:text-yellow-500 md:p-0 "
+                    className=" font-bold block py-2 pr-4 pl-3 text-blue-600  md:hover:text-blue-500 md:p-6 "
                     aria-current="page"
                   >
                     HOME
@@ -103,7 +104,7 @@ const navbar = () => {
                 <Link href="/aboutus">
                   <a
                     href="#"
-                    className="block py-2 pr-4 pl-3 text-gray-500   md:hover:text-yellow-500 md:p-0 "
+                    className="font-bold block py-2 pr-4 pl-3 text-gray-500   md:hover:text-blue-500 md:p-6 "
                   >
                     ABOUT
                   </a>
@@ -113,7 +114,7 @@ const navbar = () => {
                 <Link href="/services">
                   <a
                     href="#"
-                    className="block py-2 pr-4 pl-3 text-gray-500   md:hover:text-yellow-500 md:p-0 "
+                    className="font-bold block py-2 pr-4 pl-3 text-gray-500   md:hover:text-yellow-500 md:p-6 "
                   >
                     SERVICES
                   </a>
@@ -123,7 +124,7 @@ const navbar = () => {
                 <Link href="/contact">
                   <a
                     href="#"
-                    className="block py-2 pr-4 pl-3 text-gray-500  md:hover:text-yellow-500 md:p-0 "
+                    className="font-bold block py-2 pr-4 pl-3 text-gray-500  md:hover:text-blue-500 md:p-6 "
                   >
                     CONTACT
                   </a>
