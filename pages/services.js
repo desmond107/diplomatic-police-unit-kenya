@@ -15,29 +15,39 @@ const Services = () => {
           </div>
         </div>
         <div className="container mx-auto lg:grid lg:grid-cols-2 gap-16 py-24 px-16">
-          <div className="col-span-1 space-y-8 text-gray-600">
+          <div className="col-span-1 space-y-8 text-blue-600">
             <p className="text-xl font-medium">
-              AutoRide Transportation Services
+              Services of the Kenya Police Service
             </p>
             <p className="text-gray-500">
-              A family-owned business since its incorporation in 1995, the
-              company has grown from 5 vehicles to more than 150 vehicles today.
-              Thanks to Chairman and CEO Anna Criado’s innovative business
-              strategies of over the last two and a half decades, AutoRide has
-              enjoyed continued growth.
+              As outlined in Part III, section 24 of the National Police Service Act, the functions of the Kenya Police are:<br/> 
+•    Provide assistance to the public when in need<br/> 
+•    Maintenance of law and order<br/> 
+•    Preservation of peace<br/> 
+•    Protection of life and property<br/> 
+•    Investigation of crimes<br/> 
+•    Collection of criminal intelligence<br/> 
+•    Prevention and deduction of crime<br/> 
+•    Apprehension of offenders<br/> 
+•    Enforcement of laws and regulations with which it is charged<br/> 
+•    Performance of any other duties as may be assigned by the Inspector General in accordance with the law<br/> 
             </p>
           </div>
           <div className="col-span-1 flex flex-row space-x-3 ">
-            <FaFeatherAlt className="w-24 h-24 text-amber-600" />
+            <FaFeatherAlt className="w-24 h-24 text-blue-600" />
             <div className="">
               <p className="text-3xl  font-light text-gray-500">
-                I founded this company in 1995 with the vision of offering the
-                highest quality luxury transportation service. I invite you to
-                try our service and I personally guarantee you will have a fully
-                satisfied experience.
+                The Office of the directorate of Police Reforms is headed by the director who reports directly to the Inspector General of the National Police Service.
+ 
+Major Duties and Responsibilities:
+
+• Day to day administration of the functions of the Reform Directorate
+• Implementing the decisions of the IG.
+• Facilitating preparation and implementation of the Service strategic and annual work plans.
+
               </p>
               <p className="text-xl  font-light text-right text-gray-500">
-                ANNA CRIADO - CHAIRMAN & CEO
+                Major Duties and Responsibilities.
               </p>
             </div>
           </div>
@@ -45,8 +55,7 @@ const Services = () => {
         <div className="bg-gray-50 flex items-center justify-center text-center">
           <div className="container mx-auto py-24 px-16 space-y-2">
             <p className="text-4xl font-light text-gray-600">
-              The perfect collection of vehicles – whatever your occasion is
-              choose our service
+              Service to all
             </p>
             <div className="py-16 lg:grid lg:grid-cols-4 lg:grid-rows-2 gap-4 lg:space-y-0 space-y-2 w-full">
               <div
@@ -57,7 +66,7 @@ const Services = () => {
               >
                 <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
                   <p className="text-white text-2xl font-medium p-8">
-                    AIRPORT TRANSFER
+                    CRIME WATCH
                   </p>
                 </div>
               </div>
@@ -69,7 +78,7 @@ const Services = () => {
               >
                 <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
                   <p className="text-white text-2xl font-medium p-8">
-                    WORLDWIDE TRANSPORTATION
+                    CRIME REPORT
                   </p>
                 </div>
               </div>
@@ -81,7 +90,7 @@ const Services = () => {
               >
                 <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
                   <p className="text-white text-2xl font-medium p-8">
-                    CORPORATE TRAVEL
+                    CRIME STOPPER
                   </p>
                 </div>
               </div>
@@ -93,7 +102,7 @@ const Services = () => {
               >
                 <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
                   <p className="text-white text-2xl font-medium p-8">
-                    CHARTER SERVICE
+                    DIPLOMATIC COMPLAINT
                   </p>
                 </div>
               </div>
@@ -105,7 +114,7 @@ const Services = () => {
               >
                 <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
                   <p className="text-white text-2xl font-medium p-8">
-                    SPECIAL EVENT LIMOUSINE
+                    FIRE & RESCUE
                   </p>
                 </div>
               </div>
