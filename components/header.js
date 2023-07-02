@@ -23,18 +23,18 @@ const header = () => {
           <div
             className="h-screen bg-no-repeat bg-cover bg-center"
             style={{
-              backgroundImage: `url(/img01.jpg)`,
+              backgroundImage: `url("https://i.pinimg.com/750x/15/00/08/15000818df5127441e6d5c7bfafa20be.jpg")`,
             }}
           >
             <div className="h-screen bg-black bg-opacity-10 ">
               <div className="h-screen flex flex-col justify-center items-center space-y-6">
-                <p className="text-7xl text-white "> First Class . WorldWide</p>
+                <p className="text-7xl text-white "> Diplomatic . Police . Kenya</p>
                 <p className="text-2xl font-light text-white ">
-                  A chauffer Service for Any Purpose
+                  Service to all
                 </p>
                 <button
                   type="button"
-                  className="text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
+                  className="text-white  bg-blue-600 hover:bg-blue-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
                 >
                   CONTACT US
                 </button>
@@ -46,18 +46,18 @@ const header = () => {
           <div
             className="h-screen bg-no-repeat bg-cover bg-center"
             style={{
-              backgroundImage: `url(/img02.jpg)`,
+              backgroundImage: `url(https://i.pinimg.com/750x/e8/58/6e/e8586e53f7f7d241986bb88ed4d358f3.jpg)`,
             }}
           >
             <div className="h-screen bg-black bg-opacity-10 ">
               <div className="h-screen flex flex-col justify-center items-center space-y-6">
-                <p className="text-7xl text-white "> First Class . WorldWide</p>
+                <p className="text-7xl text-white "> Diplomatic . Police . Kenya</p>
                 <p className="text-2xl font-light text-white ">
-                  A chauffer Service for Any Purpose
+                  Service to all
                 </p>
                 <button
                   type="button"
-                  className="text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
+                  className="text-white  bg-blue-600 hover:bg-blue-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
                 >
                   CONTACT US
                 </button>
@@ -69,18 +69,18 @@ const header = () => {
           <div
             className="h-screen bg-no-repeat bg-cover bg-center"
             style={{
-              backgroundImage: `url(/img03.jpg)`,
+              backgroundImage: `url(https://i.pinimg.com/750x/05/c1/f4/05c1f4f2943b64f702599bfbbc87cdcf.jpg)`,
             }}
           >
             <div className="h-screen bg-black bg-opacity-10 ">
               <div className="h-screen flex flex-col justify-center items-center space-y-6">
-                <p className="text-7xl text-white "> First Class . WorldWide</p>
+                <p className="text-7xl text-white ">Diplomatic . Police . Kenya</p>
                 <p className="text-2xl font-light text-white ">
-                  A chauffer Service for Any Purpose
+                  service to all
                 </p>
                 <button
                   type="button"
-                  className="text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
+                  className="text-white  bg-blue-600 hover:bg-blue-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
                 >
                   CONTACT US
                 </button>
