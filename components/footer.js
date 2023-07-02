@@ -142,7 +142,7 @@ const footer = () => {
       </div>
 
       <div className="py-8 container mx-auto flex flex-row justify-between">
-        <p>Copyright 2023 Diplomatic Police Kenya Theme by Desmond Kinoti</p>
+        <p>Copyright 2023 Diplomatic Police Kenya Theme by Finvoy.tech-Kenya</p>
         <div className="flex flex-row space-x-3">
           <FaFacebook className="w-5 h-5 text-gray-500" />
           <FaInstagram className="w-5 h-5 text-gray-500" />

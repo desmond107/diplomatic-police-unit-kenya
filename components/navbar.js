@@ -38,17 +38,12 @@ const navbar = () => {
       <nav className=" px-2 sm:px-4 py-5 ">
         <div className="container flex flex-wrap justify-between items-center mx-auto">
           <Link href="/">
-            <a href="#" className="flex">
-              <Image src={Logo} alt="Logo" />
+            <a href="#" className="d-flex">
+              <Image src={Logo} alt="Logo" width="270" height="200"/>
             </a>
           </Link>
           <div className="flex md:order-2">
-            <button
-              type="button"
-              className="text-gray-700 hover:text-white hover:bg-blue-600 border-2 border-blue-500   rounded-3xl  px-5 py-2.5 text-center mr-3 md:mr-0 "
-            >
-              GET A QUOTE
-            </button>
+            
             <button
               data-collapse-toggle="mobile-menu-4"
               type="button"
@@ -88,12 +83,13 @@ const navbar = () => {
             id="mobile-menu-4"
           >
           
+          
             <ul className="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0  ">
               <li>
                 <Link href="/">
                   <a
                     href="#"
-                    className=" font-bold block py-2 pr-4 pl-3 text-blue-600  md:hover:text-blue-500 md:p-6 "
+                    className="font-bold block py-2 pr-4 pl-3 text-gray-600  md:hover:text-blue-500 md:p-6 "
                     aria-current="page"
                   >
                     HOME
@@ -114,7 +110,7 @@ const navbar = () => {
                 <Link href="/services">
                   <a
                     href="#"
-                    className="font-bold block py-2 pr-4 pl-3 text-gray-500   md:hover:text-yellow-500 md:p-6 "
+                    className="font-bold block py-2 pr-4 pl-3 text-gray-500   md:hover:text-blue-500 md:p-6 "
                   >
                     SERVICES
                   </a>
