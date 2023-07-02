@@ -17,24 +17,23 @@ const Contents = () => {
         </div>
       </div>
       <div className="px-12 flex flex-col justify-center items-center text-center space-y-6">
+      <label className="font-extrabold text-3xl  text-blue-600 " >Vision </label>
         <FaHashtag className="w-12 h-12 text-blue-600  p-1" />
         <p className="text-3xl font-light text-gray-600">
-          I invite you to try our service and I personally guarantee you will
-          <br />
-          have a fully satisfied experience.
+          To be a world class police service, with a people-friendly, responsive and professional workforce.
+          <br/>
+          
         </p>
-        <p className="text-xl text-gray-500">ANDRO Tomas - CHAIRMAN CEO</p>
+        <p className="text-xl text-gray-500">.....</p>
       </div>
       <div className="lg:grid lg:grid-cols-2 px-12">
         <div className="col-span-1 space-y-6 py-12 text-center px-8">
-          <p className="text-3xl font-medium text-gray-600">
-            Exceptional Customer Service
+          <p className="text-3xl font-medium text-blue-600">
+            Mission
           </p>
           <p className="text-2xl font-light text-gray-500">
-            By offering exceptional service with no detail unattended, we have
-            been fortunate enough to have developed into the leading provider of
-            ground transportation in the area. Our goal is to make your travels
-            safe, effortless and on schedule.
+            We are committed to providing T quality police service to meet the expectations of our customers; by upholding the rule of law,
+creating and maintaining strong partnerships for a conducive social, economic and political development of Kenya.
           </p>
           <button
             type="button"

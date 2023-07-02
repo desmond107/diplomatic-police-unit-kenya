@@ -17,7 +17,7 @@ const ContentTwo = () => {
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
               <p className="text-white text-2xl font-medium p-8">
-                AIRPORT TRANSFER
+                Crime watch
               </p>
             </div>
           </div>
@@ -29,7 +29,7 @@ const ContentTwo = () => {
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
               <p className="text-white text-2xl font-medium p-8">
-                WORLDWIDE TRANSPORTATION
+                Crime report
               </p>
             </div>
           </div>
@@ -41,7 +41,7 @@ const ContentTwo = () => {
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
               <p className="text-white text-2xl font-medium p-8">
-                CORPORATE TRAVEL
+                Crime Stopper
               </p>
             </div>
           </div>
@@ -53,7 +53,7 @@ const ContentTwo = () => {
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
               <p className="text-white text-2xl font-medium p-8">
-                CHARTER SERVICE
+                Diplomatic Complaint
               </p>
             </div>
           </div>
@@ -65,7 +65,7 @@ const ContentTwo = () => {
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
               <p className="text-white text-2xl font-medium p-8">
-                SPECIAL EVENT LIMOUSINE
+                Fire & Rescue
               </p>
             </div>
           </div>
