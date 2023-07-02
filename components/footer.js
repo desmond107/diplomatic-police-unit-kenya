@@ -34,7 +34,7 @@ const footer = () => {
               <div className="space-y-2">
                 <p className="text-gray-500">PHONES</p>
                 <p className="text-gray-600 font-medium">
-                  BOOK AN APPOINTMENT: (+254) 123 456 7893 OFFICE: (254) 123 456 7892
+                   OFFICE NUMBER: (+254) 708 589 522
                 </p>
               </div>
             </div>
@@ -66,23 +66,23 @@ const footer = () => {
               <div className="flex flex-col space-y-1">
                 <div className="flex flex-row items-center space-x-2">
                   <FaAngleRight className="w-8 h-8 text-gray-500  p-1" />
-                  <p className="text-gray-500">Experiential Tours</p>
+                  <p className="text-gray-500">Crime watch</p>
                 </div>
                 <div className="flex flex-row items-center space-x-2">
                   <FaAngleRight className="w-8 h-8 text-gray-500  p-1" />
-                  <p className="text-gray-500">Wedding Limousine</p>
+                  <p className="text-gray-500">Crime report</p>
                 </div>
                 <div className="flex flex-row items-center space-x-2">
                   <FaAngleRight className="w-8 h-8 text-gray-500  p-1" />
-                  <p className="text-gray-500">Corporate Travel</p>
+                  <p className="text-gray-500">Crime Stopper</p>
                 </div>
                 <div className="flex flex-row items-center space-x-2">
                   <FaAngleRight className="w-8 h-8 text-gray-500  p-1" />
-                  <p className="text-gray-500">Airport Transportation</p>
+                  <p className="text-gray-500"> Diplomatic complaint</p>
                 </div>
                 <div className="flex flex-row items-center space-x-2">
                   <FaAngleRight className="w-8 h-8 text-gray-500  p-1" />
-                  <p className="text-gray-500">Nationwide Transportation</p>
+                  <p className="text-gray-500">Fire & Rescue</p>
                 </div>
               </div>
             </div>
@@ -100,19 +100,19 @@ const footer = () => {
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaPhone className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500">(+245) 123 456 789</p>
+                  <p className="text-gray-500">(+254) 708 589 522</p>
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaPhoneSquareAlt className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500">(+254) 123 456 789</p>
+                  <p className="text-gray-500">(+254) 708 589 522</p>
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaVoicemail className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500">diplomaticpolicekenya@gvy.go.ke</p>
+                  <p className="text-gray-500">diplomaticpolice@yahoo.com</p>
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaCalendarWeek className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500">Mon-Sat: 07:00 - 17:00</p>
+                  <p className="text-gray-500">Mon-Sun: 24/7</p>
                 </div>
               </div>
             </div>
@@ -126,7 +126,7 @@ const footer = () => {
                   type="email"
                   id="email"
                   className="bg-gray-50 border border-gray-300 text-gray-900   focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 "
-                  placeholder="diplomaticpolicekenya@gvy.go.ke"
+                  placeholder="diplomaticpolice@yahoo.com"
                   required
                 />
                 <button

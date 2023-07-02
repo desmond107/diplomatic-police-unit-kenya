@@ -21,7 +21,7 @@ const navbar = () => {
             </div>
             <div className="flex flex-row space-x-2">
               <FaMobileAlt className="w-5 h-5 text-gray-500" />
-              <p> (+254) 123 456 789</p>
+              <p> (+254) 708 589 522</p>
             </div>
             <div className="flex flex-row space-x-2">
               <FaRegClock className="w-5 h-5 text-gray-500" />
