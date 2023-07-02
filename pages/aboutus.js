@@ -20,27 +20,27 @@ const AboutUs = () => {
         </div>
         <div className="container mx-auto lg:grid lg:grid-cols-2 gap-16 py-24 px-16">
           <div className="col-span-1 space-y-8 text-gray-600">
-            <p className="text-xl font-medium">
-              For over a dozen years we have been providing the best transport
-              services. We offer bus, passenger transport and limousine rental.
+            <p className="text-3xl font-medium">
+              Background
             </p>
             <p className="text-gray-500">
-              We address our offer to all who want to travel in comfortable
-              conditions. We have over 120 top-class vehicles, so our customers
-              can be assured of comfort and safety.
+              The Kenya Police has its small beginnings in the period between 1887 – 1902, tracing its foundation on the Imperial British East Africa (I.B.E.A.) Company, and a businessman Sir William McKinnon, who in the interest of his business found it necessary to provide some form of protection (security) for his stores along the coastline of Kenya.
+              It is from this origin that the concept of constituting a real police service was formed in Mombasa. Generally, police activities centered on protection of the business of the I.B.E.A. Company where the strength was mainly of Indian origin with a skeleton staff of some Africans otherwise referred to as ‘Askaris”. During those early stages of the small police force, its duties were negligible.
+
+
             </p>
             <div className="space-y-3 text-gray-500">
               <div className="flex flex-row space-x-4 items-center">
-                <FaCheck className="w-9 h-9 border rounded-full text-amber-500  p-2" />
-                <p>Professionally Trained Chauffeurs</p>
+                <FaCheck className="w-9 h-9 border rounded-full text-blue-500  p-2" />
+                <p>Professionally Trained Police</p>
               </div>
               <div className="flex flex-row space-x-4 items-center">
-                <FaCheck className="w-9 h-9 border rounded-full text-amber-500  p-2" />
-                <p>24/7 Full-Service Transportation</p>
+                <FaCheck className="w-9 h-9 border rounded-full text-blue-500  p-2" />
+                <p>24/7 Service Transparency</p>
               </div>
               <div className="flex flex-row space-x-4 items-center">
-                <FaCheck className="w-9 h-9 border rounded-full text-amber-500  p-2" />
-                <p>Global network of Transportation Partners</p>
+                <FaCheck className="w-9 h-9 border rounded-full text-blue-500  p-2" />
+                <p>National network of service Partners</p>
               </div>
             </div>
           </div>
@@ -50,8 +50,8 @@ const AboutUs = () => {
         </div>
         <div className="bg-gray-100 flex items-center justify-center text-center">
           <div className="container mx-auto py-24 px-16 space-y-2">
-            <p className="text-xl font-medium text-amber-600">
-              COMMITMENT TO WORK
+            <p className="text-xl font-medium text-blue-600">
+              COMMITTED TO SERVE YOU
             </p>
             <p className="text-4xl font-light text-gray-600">Our Competences</p>
             <div className="grid lg:grid-cols-2 gap-12 py-8">
@@ -59,14 +59,14 @@ const AboutUs = () => {
                 <Image src={Image2} alt="Picture of the author" />
 
                 <div className="space-y-5 p-8">
-                  <p className="text-xl font-medium text-amber-600">
+                  <p className="text-xl font-medium text-blue-600">
                     PROFESSIONALISM
                   </p>
                   <p className="text-gray-500">
-                    Our experienced staff and highly professional chauffeurs are
-                    committed to providing safe, reliable transportation,
-                    exceptional customer service, and consistent pricing. We
-                    provide in-house dispatchers who support our clients.
+                    Our experienced unit and highly professional police officers are
+                    committed to providing safe, reliable security,
+                    exceptional service, and consistency . We
+                    provide security surveillance 24 hours every day of the week.
                   </p>
                 </div>
               </div>
@@ -74,15 +74,13 @@ const AboutUs = () => {
                 <Image src={Image3} alt="Picture of the author" />
 
                 <div className="space-y-5 p-8">
-                  <p className="text-xl font-medium text-amber-600">
+                  <p className="text-xl font-medium text-blue-600">
                     COMMITMENT
                   </p>
                   <p className="text-gray-500">
                     Our office is open twenty four hours a day, seven days a
-                    week. You name the occasion – we’ll make the ride flawless.
-                    Whether you require a chauffeured vehicle for business or
-                    pleasure, close to home or in a new city we are always
-                    there.
+                    week. We are dedicated to the enforcement of national security,
+                     and maintaining the rule of law.
                   </p>
                 </div>
               </div>
@@ -90,18 +88,18 @@ const AboutUs = () => {
           </div>
         </div>
         <div className="container mx-auto flex flex-col items-center justify-center text-center py-24  space-y-2">
-          <p className="text-xl font-medium text-amber-600">OUR FLEET</p>
-          <p className="text-4xl font-light text-gray-600">Browse Our Limos</p>
+          <p className="text-xl font-medium text-blue-600">Diplomatic Police</p>
+          <p className="text-4xl font-light text-gray-600">Service to all</p>
           <div className="lg:grid lg:grid-cols-3 gap-12 px-4 py-24 w-full">
             <div className="col-span-1 flex flex-col space-y-3 border border-gray-300">
               <div
-                className="bg-no-repeat bg-cover bg-center w-full h-64"
+                className="bg-no-repeat bg-small bg-center w-full h-64"
                 style={{
                   backgroundImage: `url(/image_10-1-768x512.jpg)`,
                 }}
               >
                 <div className="bg-black  bg-opacity-30 w-full h-full  flex items-end justify-start">
-                  <p className="text-white text-xl  p-8">Audi A8</p>
+                  <p className="text-white text-xl  p-8">Justice</p>
                 </div>
               </div>
               <div className="py-1 flex flex-row space-x-2 items-center justify-center">
@@ -113,13 +111,13 @@ const AboutUs = () => {
             </div>
             <div className="col-span-1 flex flex-col space-y-3 border border-gray-300">
               <div
-                className="bg-no-repeat bg-cover bg-center w-full h-64"
+                className="bg-no-repeat bg-small bg-center w-full h-64"
                 style={{
                   backgroundImage: `url(/image_10-1-768x512.jpg)`,
                 }}
               >
                 <div className="bg-black  bg-opacity-30 w-full h-full  flex items-end justify-start">
-                  <p className="text-white text-xl  p-8">Audi A8</p>
+                  <p className="text-white text-xl  p-8">Peace</p>
                 </div>
               </div>
               <div className="py-1 flex flex-row space-x-2 items-center justify-center">
@@ -131,13 +129,13 @@ const AboutUs = () => {
             </div>
             <div className="col-span-1 flex flex-col space-y-3 border border-gray-300">
               <div
-                className="bg-no-repeat bg-cover bg-center w-full h-64"
+                className="bg-no-repeat bg-small bg-center w-full h-64"
                 style={{
                   backgroundImage: `url(/image_10-1-768x512.jpg)`,
                 }}
               >
                 <div className="bg-black  bg-opacity-30 w-full h-full  flex items-end justify-start">
-                  <p className="text-white text-xl  p-8">Audi A8</p>
+                  <p className="text-white text-xl  p-8">Democracy</p>
                 </div>
               </div>
               <div className="py-1 flex flex-row space-x-2 items-center justify-center">
