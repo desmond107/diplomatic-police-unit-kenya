@@ -88,6 +88,29 @@ const header = () => {
             </div>
           </div>
         </SwiperSlide>
+        <SwiperSlide>
+          <div
+            className="h-screen bg-no-repeat bg-cover bg-center"
+            style={{
+              backgroundImage: `url(https://i.pinimg.com/736x/13/42/6f/13426fe38235ebeca2b8be20482c2f79.jpg)`,
+            }}
+          >
+            <div className="h-screen bg-black bg-opacity-10 ">
+              <div className="h-screen flex flex-col justify-center items-center space-y-6">
+                <p className="text-7xl text-white ">Diplomatic . Police . Kenya</p>
+                <p className="text-2xl font-light text-white ">
+                  service to all
+                </p>
+                <button
+                  type="button"
+                  className="text-white  bg-blue-600 hover:bg-blue-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
+                >
+                  CONTACT US
+                </button>
+              </div>
+            </div>
+          </div>
+        </SwiperSlide>
       </Swiper>
     </div>
   );
