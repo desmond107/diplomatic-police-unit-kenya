@@ -60,29 +60,29 @@ const footer = () => {
             </div>
             <div className="col-span-1 space-y-8">
               <div className="flex flex-col space-y-2">
-                <p className="text-gray-600 font-medium">OUR SERVICES</p>
+                <p className="text-gray-600 font-medium">CORE VALUES</p>
                 <p className="border-solid border border-blue-500  w-1/4 "></p>
               </div>
               <div className="flex flex-col space-y-1">
                 <div className="flex flex-row items-center space-x-2">
                   <FaAngleRight className="w-8 h-8 text-gray-500  p-1" />
-                  <p className="text-gray-500">Crime watch</p>
+                  <p className="text-gray-500">Integrity</p>
                 </div>
                 <div className="flex flex-row items-center space-x-2">
                   <FaAngleRight className="w-8 h-8 text-gray-500  p-1" />
-                  <p className="text-gray-500">Crime report</p>
+                  <p className="text-gray-500">Professionalism</p>
                 </div>
                 <div className="flex flex-row items-center space-x-2">
                   <FaAngleRight className="w-8 h-8 text-gray-500  p-1" />
-                  <p className="text-gray-500">Crime Stopper</p>
+                  <p className="text-gray-500">Respect.</p>
                 </div>
                 <div className="flex flex-row items-center space-x-2">
                   <FaAngleRight className="w-8 h-8 text-gray-500  p-1" />
-                  <p className="text-gray-500"> Diplomatic complaint</p>
+                  <p className="text-gray-500"> Service.</p>
                 </div>
                 <div className="flex flex-row items-center space-x-2">
                   <FaAngleRight className="w-8 h-8 text-gray-500  p-1" />
-                  <p className="text-gray-500">Fire & Rescue</p>
+                  <p className="text-gray-500">Confidentiality</p>
                 </div>
               </div>
             </div>
@@ -100,7 +100,7 @@ const footer = () => {
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaPhone className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500">(+254) 708 589 522</p>
+                  <p className="text-gray-500">(+254)731170666</p>
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaPhoneSquareAlt className="w-6 h-6 text-gray-500 " />
