@@ -23,10 +23,20 @@ const AboutUs = () => {
             <p className="text-3xl font-medium">
               Background
             </p>
-            <p className="text-gray-500">
-              The Kenya Police has its small beginnings in the period between 1887 – 1902, tracing its foundation on the Imperial British East Africa (I.B.E.A.) Company, and a businessman Sir William McKinnon, who in the interest of his business found it necessary to provide some form of protection (security) for his stores along the coastline of Kenya.
-              It is from this origin that the concept of constituting a real police service was formed in Mombasa. Generally, police activities centered on protection of the business of the I.B.E.A. Company where the strength was mainly of Indian origin with a skeleton staff of some Africans otherwise referred to as ‘Askaris”. During those early stages of the small police force, its duties were negligible.
+            <p className="text-gray-500 font-serif font-medium">
+              The Diplomatic Police Unit was established on 24th
+              November, 2004 to provide security to diplomats
+              working and visiting Kenya.
+              Currently Kenya has over 133 Diplomatic Missions
+              which are resident, the United Nations Office in
+              Nairobi and over 40 diplomatically accredited
+              International Organizations
+              This informs the large diplomatic community
+              presence in Kenya
 
+
+            
+            
 
             </p>
             <div className="space-y-3 text-gray-500">
