@@ -32,8 +32,10 @@ const Contents = () => {
             Mission
           </p>
           <p className="text-2xl font-light text-gray-500">
-            We are committed to providing T quality police service to meet the expectations of our customers; by upholding the rule of law,
-creating and maintaining strong partnerships for a conducive social, economic and political development of Kenya.
+          To provide quality services to meet the expectations of
+          our customers by upholding the rule of law, creating and
+          maintaining strong community partnership for conducive,
+          social and economic development of Kenya.
           </p>
           <button
             type="button"
