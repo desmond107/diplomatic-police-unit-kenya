@@ -23,10 +23,11 @@ const AboutUs = () => {
             <p className="text-3xl font-medium">
               Background
             </p>
-            <p className="text-gray-500 font-serif font-medium">
+            <p className="text-gray-500 text-3xl">
               The Diplomatic Police Unit was established on 24th
               November, 2004 to provide security to diplomats
               working and visiting Kenya.
+              <br/>
               Currently Kenya has over 133 Diplomatic Missions
               which are resident, the United Nations Office in
               Nairobi and over 40 diplomatically accredited

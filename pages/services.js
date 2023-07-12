@@ -23,7 +23,7 @@ const Services = () => {
               The Diplomatic police unit operates within the framework
               of the international law and diplomacy to ensure the
               safety and security of diplomatic missions, personnel and
-              their facilities.<br/><br/>
+              their facilities.<br/>
 
 our key aspects:<br/> 
 1.Legal Authority.<br/>
