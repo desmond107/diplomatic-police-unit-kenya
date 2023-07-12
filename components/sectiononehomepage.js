@@ -20,7 +20,9 @@ const Contents = () => {
       <label className="font-extrabold text-3xl  text-blue-600 " >Vision </label>
         <FaHashtag className="w-12 h-12 text-blue-600  p-1" />
         <p className="text-3xl font-light text-gray-600">
-          To be a world class police service, with a people-friendly, responsive and professional workforce.
+          To attain excellence as a Police Unit by providing quality
+           and professional security services to all accredited
+            Diplomatic Missions in Kenya.
           <br/>
           
         </p>
