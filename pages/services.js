@@ -17,27 +17,46 @@ const Services = () => {
         <div className="container mx-auto lg:grid lg:grid-cols-2 gap-16 py-24 px-16">
           <div className="col-span-1 space-y-8 text-blue-600">
             <p className="text-xl font-medium">
-              Services of the Kenya Police Service
+              Activities of the Diplomatic Police Unit.
             </p>
-            <p className="text-gray-500">
-              As outlined in Part III, section 24 of the National Police Service Act, the functions of the Kenya Police are:<br/> 
-•    Provide assistance to the public when in need<br/> 
-•    Maintenance of law and order<br/> 
-•    Preservation of peace<br/> 
-•    Protection of life and property<br/> 
-•    Investigation of crimes<br/> 
-•    Collection of criminal intelligence<br/> 
-•    Prevention and deduction of crime<br/> 
-•    Apprehension of offenders<br/> 
-•    Enforcement of laws and regulations with which it is charged<br/> 
-•    Performance of any other duties as may be assigned by the Inspector General in accordance with the law<br/> 
+            <p className="text-gray-500 text-2xl">
+              The Diplomatic police unit operates within the framework
+              of the international law and diplomacy to ensure the
+              safety and security of diplomatic missions, personnel and
+              their facilities.<br/><br/>
+
+our key aspects:<br/> 
+1.Legal Authority.<br/>
+2. protection of Diplomatic missions.<br/>
+3. security for diplomatic personnel.<br/>
+4. crowd and traffic control.<br/>
+5. Investigation and intelligence gathering.<br/>
+6. liaison with host country authorities.<br/>
+7. Training and Professionalism.<br/>
+8. International cooperation.<br/>
+9. Respect human rights.while.<br/>
+10. crisis response.<br/>
+ 
             </p>
           </div>
           <div className="col-span-1 flex flex-row space-x-3 ">
             <FaFeatherAlt className="w-24 h-24 text-blue-600" />
             <div className="">
-              <p className="text-3xl  font-light text-gray-500">
-                The Office of the directorate of Police Reforms is headed by the director who reports directly to the Inspector General of the National Police Service.
+            <p className="text-xl font-medium text-blue-600">RELATIONS WITH THE DIPLOMATIC CORPS IN KENYA</p>
+                                                              
+              <p className="text-2xl  font-light text-gray-500">
+                The position regarding the Diplomatic corps vis-a-vis Police is as
+follows:-
+<br/><br/>
+(i) The privileges and immunities to which accredited diplomats of
+Foreign and Commonwealth missions are entitled are laid down in
+the Vienna Convention on Diplomatic Relations to which Kenya is
+a signatory.<br/><br/>
+
+(ii) Ambassadors and consular officers or employees and certain
+representatives of the United Nations Agencies shall not be liable
+to legal proceedings in respect of acts performed in their official
+capacity, which acts fall within the functions of such officers.<br/><br/>
  
 Major Duties and Responsibilities:
 
