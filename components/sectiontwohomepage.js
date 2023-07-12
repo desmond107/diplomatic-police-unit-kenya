@@ -3,9 +3,9 @@ const ContentTwo = () => {
     <div>
       <div className="flex flex-col space-y-12 items-center justify-center bg-gray-50 w-full py-12">
         <div className="text-center space-y-3 ">
-          <p className="text-xl font-medium text-blue-600">WHAT WE OFFER</p>
+          <p className="text-xl font-medium text-blue-600">WHO WE ARE</p>
           <p className="text-4xl font-light text-gray-600">
-            See What We Can Do for You
+            Our Core Values.
           </p>
         </div>
         <div className="container px-12  lg:grid lg:grid-cols-4 lg:grid-rows-2 gap-4  lg:space-y-0 space-y-2 w-full">
@@ -17,7 +17,7 @@ const ContentTwo = () => {
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
               <p className="text-white text-2xl font-medium p-8">
-                Crime watch
+                 Integrity
               </p>
             </div>
           </div>
@@ -29,7 +29,7 @@ const ContentTwo = () => {
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
               <p className="text-white text-2xl font-medium p-8">
-                Crime report
+                Professionalism
               </p>
             </div>
           </div>
@@ -41,7 +41,7 @@ const ContentTwo = () => {
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
               <p className="text-white text-2xl font-medium p-8">
-                Crime Stopper
+                Respect
               </p>
             </div>
           </div>
@@ -53,7 +53,7 @@ const ContentTwo = () => {
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
               <p className="text-white text-2xl font-medium p-8">
-                Diplomatic Complaint
+                Service
               </p>
             </div>
           </div>
@@ -63,9 +63,10 @@ const ContentTwo = () => {
               backgroundImage: `url(/image_05-2.jpg)`,
             }}
           >
-            <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
+            <div 
+            className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
               <p className="text-white text-2xl font-medium p-8">
-                Fire & Rescue
+                Confidentiality
               </p>
             </div>
           </div>

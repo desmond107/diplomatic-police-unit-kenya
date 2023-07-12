@@ -6,7 +6,7 @@ const Service = () => {
         <FaEnvira className="w-16 h-16 text-blue-600 bg-gray-100 rounded-full p-1" />
         <p className="text-2xl font-medium text-gray-600">Law and order</p>
         <p className="text-gray-600">
-          To promote, promote, protect and respect the human rights of our customers.
+          To promote, protect and respect the human rights of our customers.
         </p>
       </div>
       <div className="col-span-2 flex flex-col space-y-4 items-center justify-center text-center">
